@@ -445,3 +445,4 @@
     plugin_nightscout_urgentlowalert: # optional, default is 50
     # When the blood sugar is considered urgently high
     plugin_nightscout_urgenthighalert: # optional, default is 250
+
