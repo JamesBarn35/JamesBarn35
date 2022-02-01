@@ -91,6 +91,7 @@
     use_prebuilt_image: # optional, default is true
     # Use this to avoid triggering abuse mechanics on large workflows
     delay: # optional, default is 0
+    plugin_repositories: yes
     # Display an isometric view of your commits calendar
     plugin_isocalendar: # optional
     # Set time window shown by isometric calendar
