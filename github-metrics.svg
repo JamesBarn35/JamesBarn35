@@ -323,8 +323,8 @@
                             <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
                             <div class="label" title="Go is a programming language built to resemble a simplified version of the C programming language.">go</div>
                             <div class="label" title="The Raspberry Pi is a popular single-board computer.">raspberry pi</div>
-                            <div class="label" title="TensorFlow is an open source software library for numerical computation.">tensorflow</div>
                             <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
+                            <div class="label" title="TensorFlow is an open source software library for numerical computation.">tensorflow</div>
                             <div class="label" title="Ubuntu is a Linux-based operating system.">ubuntu</div>
                             <div class="label" title="Kotlin is a statically typed programming language for multiplatform applications.">kotlin</div>
                             <div class="label" title="Rust is a systems programming language created by Mozilla.">rust</div>
@@ -1479,7 +1479,7 @@ Update metrics.yml</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2022, 07:08:47 (timezone America/Los_Angeles) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 5 Feb 2022, 08:12:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
