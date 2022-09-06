@@ -345,7 +345,7 @@
                             <div class="label" title="Spring Boot is a coding and configuration model for Java applications.">spring boot</div>
                             <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
                             <div class="label" title="Natural language processing (NLP) is the study of how computers and humans interact.">natural language processing</div>
-                            <div class="label" title="Material design is a unified system of theory and tools for creating digital experiences developed by Google.">material design</div>
+                            <div class="label" title="Material Design is a unified system of theory and tools for creating digital experiences developed by Google.">material design</div>
                             <div class="label" title="Maven is a build automation tool used primarily for Java projects.">maven</div>
                             <div class="label" title="Terraform, Scala, Haskell, Jekyll">and 4 more...</div>
                         </div>
@@ -1894,7 +1894,7 @@ Change-Id: Ia8605e706563d77555425445e3a72e45a35f574d</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2022, 09:17:31 (timezone America/Los_Angeles) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 6 Sept 2022, 10:20:17 (timezone America/Los_Angeles) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
