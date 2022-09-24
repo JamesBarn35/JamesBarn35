@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="978" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1369" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .user{font-weight:600}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    10.7m added, 7.63m removed
+                                    11.4m added, 7.60m removed
                                 </div>
                             </section>
                             <section>
@@ -1392,18 +1392,465 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
-                            </svg>
-                            No recent activity
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">jenkinsPhoenix</span>
+                                        in
+                                        <span class="repo">JamesBarn35/cerebro</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 107 commits in
+                                        <span class="repo">JamesBarn35/cerebro</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#53ea6e2</div>
+                                        <div class="message">[web][DAS-8401] : Adding a account details button the user menu at the bottom left corner.
+
+*What this PR does / why we need it:*
+We need to add this because the call to action homepage no long show account details information, so we are giving the user a way to view it through the user menu.
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+Account details can be view by clicking the "Account details" option in the user menu at the bottom left corner.
+```
+
+Change-Id: Icd5417bc82b687378068507e8afc17526ed8cafe</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e8fc2d</div>
+                                        <div class="message">[web][das-8295] Do not display an error when a user does not have access to datasets tagged
+
+*What this PR does / why we need it:*
+A user needs SELECT access to the okera_system.attribute_object_mappings table
+in order to see the number of datasets tagged. Instead of showing an error
+indicating an authorization error, we will display an empty message, similar
+to the way automatic tagging rules is handled.
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+``` Release note:
+Users without access to the datasets tagged will no longer see an error message,
+they will be shown a message saying "No datasets tagged"
+```
+
+Change-Id: Ia91ddecb71c9390f11c6e3e8932364b56c572825</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9057d8</div>
+                                        <div class="message">[sf-sync][DAS-8183] : updated GetTaggedUsers to use a query
+to get all tagged users that has a specific value.
+
+*What this PR does / why we need it:*
+This change will help with preformance for tagged users, but
+it will have up to 2 hours latency to get users that are tagged.
+This is due to how often Snowflake updates the account_usage data.
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+Snowflake sync tagged users now no longer query x amount of
+users to see if they are tagged, but the new query can have up to 2 hours of latency.
+```
+
+Change-Id: I0bc4de37d62c5b14a12faac72be24a51484e9f24</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5bd183</div>
+                                        <div class="message">[DAS-8657][fe] Set UDF DB and Schema in Go and FE
+
+*What this PR does / why we need it:*
+- Fixes issue with getting the connection ID for custom udfDb setting.
+- Fixes issue with udfDb and udfSchema not getting set in snowflake
+policy sync.
+- Adds integration test to check that masking policy is set in snowflake.
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+- Added test containing a check for table properties.
+- Added test for checking that a masking policy exists after
+sync in the correct database and schema.
+```
+Release note:
+udfDb and udfSchema can now be set in connection properties.
+```
+
+Change-Id: I43041fbb2821280d0733d104f4961b23fb591bb0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af5ae1c</div>
+                                        <div class="message">[fe] Add debug logging to a failed assert
+
+*What this PR does / why we need it:*
+Need to understand what this object looks like. This assert fails.
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+```
+
+Change-Id: Iecb77586d6aaeeae19e088c1f48f088d37d9ccdf</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf13117</div>
+                                        <div class="message">[DAS-8593][web]-permission-data-layer
+
+*What this PR does / why we need it:*
+- Implement User Access Control for Home page
+  - Although this Implementation is currently used for HomePage can
+  be leverage on subsequent tickets for other parts of product, in
+  longer run we move some of the logic to PermissionProvider that will
+  be self sufficient.
+- Add first version of Integration Test, when we implement the Interaction
+we will enhance the tests
+- covering the utility and hook with unit test
+
+*Special notes for your reviewer:*
+For more info visit
+https://cerebro.atlassian.net/wiki/spaces/ENG/pages/2617966644/Page+Permissions
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+To be discussed.
+```
+
+Change-Id: I80c870c36f75c21cb3bb94599298a292443ed536</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#beef63f</div>
+                                        <div class="message">[cypress] : Fixing how default u feature flag is parsed from cypress environment variable.
+
+*What this PR does / why we need it:*
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+```
+
+Change-Id: I6b06adb9be59bc2d7afebb059efe43cfe6d1fc86</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7290969</div>
+                                        <div class="message">[ranger-extract] Properly supporting GRANT ROLE for security zones
+
+*What this PR does / why we need it:*
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+```
+
+Change-Id: I3518d3fa423bb7345fec0ade7d2c83a7bb1f1beb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba1bce2</div>
+                                        <div class="message">[web][das-8390] Use Mantine Text
+
+*What this PR does / why we need it:*
+Swaps out previous Text component with Mantine text. Updates to
+MantineThemeProvider
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+``` Release note:
+N/A
+```
+
+Change-Id: I509d8ffa0cf26322a437823d9568f0f0dc3390ae</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79a4750</div>
+                                        <div class="message">[web][das-8294] Display all tags a user has any permissions on in Tags
+page
+
+*What this PR does / why we need it:*
+Updates the getAttributes call on tags page with filter for any tags
+related permission levels. This fixes a bug wherein users were only able
+to see tags they had either ALL, ADD_ATTRIBUTE, and/or REMOVE_ATTRIBUTE
+permissions on.
+
+Additionally, replaces instances of the 'editable_only' filter with a
+more explicit privileges filter, which should have no impact on the UI.
+
+*Special notes for your reviewer:*
+
+editable_only filter will be removed from the API altogether in the
+future.
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+``` Release note:
+This change fixes a bug on the Tags page where users were only able
+to see tags they had either ALL, ADD_ATTRIBUTE, and/or REMOVE_ATTRIBUTE
+permissions on. Tags that a user has any permission on, including DROP
+and CREATE, are now displayed.
+
+```
+Change-Id: I1aef31f06d12b59572d83fd1c44e413679760513
+
+Change-Id: I004e40ec0a2d4edb4a870eff4c223e8dd7d0efcd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc93ffb</div>
+                                        <div class="message">[fe][trino] Properly return hasFullAccess in AuthorizeQuery RPC
+
+*What this PR does / why we need it:*
+We weren't setting all the result fields in all paths which makes it hard for the client.
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+```
+
+Change-Id: Id83574f4263e3baf733e870f794caf087509dc74</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43069ce</div>
+                                        <div class="message">[web] Fix Radio button size
+
+*What this PR does / why we need it:*
+They were too small
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+N/A
+```
+
+Change-Id: I085b003d4965f4972ee6d0c9cc6d13a573b90396</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05f2c58</div>
+                                        <div class="message">[rest] Include tablets into blocking mobile regexps
+
+*What this PR does / why we need it:*
+- folks wanted more than just phones
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+when BLOCK_WEB_UI_FOR_MOBILE_CLIENTS flag is used, we now block tablets
+too.
+```
+
+Change-Id: Id23ffb3b307f4fb4e33043ba474b5789733bbac8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c2b8ab</div>
+                                        <div class="message">[web] Fix some console warnings
+
+*What this PR does / why we need it:*
+- Fixes some console warnings where components' values were going from undefined to a value. I fixed this at the view layer by providing an empty string default. I don't love the approach because it makes it inclear when you have to do this, but the alternative is changeing the default models in a way that is a bit more complex than necessary for these layered connection models. And I don't think it would make it much better--you'd still have to be careful to set the models up that way just so the display layer is happy. Honestly it seems like an annoyance of react. I'm open to suggestions.
+
+- Also fixes a couple small layout and usability issues I noticed in safegaurd policy builder when I was using it.
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+N/A
+```
+
+Change-Id: I9340e502bc18df56b7716aaefb741499ed3edc24</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab4239e</div>
+                                        <div class="message">[web] Remove unused radio buttons
+
+*What this PR does / why we need it:*
+- These are unused. They are now mantine
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+N/A
+```
+
+Change-Id: I4dbcf46447e1d1b7b9d876f25be039a738a61958</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e995ba5</div>
+                                        <div class="message">[web][cypress] Change DDL we use in cypress test
+
+*What this PR does / why we need it:*
+- this test has been flaky, trying to use less invasive ddl
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+n/a
+```
+
+Change-Id: I2eb7545fca24598cbe37ffd16714d515c86d20d3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea04559</div>
+                                        <div class="message">[web][pb] Allow using db/tbl template syntax in PB
+
+*What this PR does / why we need it:*
+- this is a fairly naive implementation - we need UX input and
+more thinking about the edge cases (dbtpl/tableName)
+
+- TODO: we should be able to use similar dbFilter in getDatasets API
+- TODO: we should be able to use similar filters when looking for
+permissions on db/tbl.
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+```
+
+Change-Id: I894d366b8f13fbbbc71b771dc430b036b1098832</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#152b590</div>
+                                        <div class="message">[DAS-8385][web] Replace Subnav component
+
+*What this PR does / why we need it:*
+Replaces the Subnav component with Mantine's Tab component.
+*Special notes for your reviewer:*
+Utilized default styles from Mantine so the style changes a bit here.
+*Additional testing that was done:*
+
+ADDITIONAL_CI_TESTS:
+N/A
+```
+Release note:
+```
+
+Change-Id: I64d6db4de4e18d9bd3fd598159628f8bed11d3df</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf5bff1</div>
+                                        <div class="message">[web] Fix 'spellCheck' prop casing
+
+*What this PR does / why we need it:*
+- Incorrect casing is causing a console warning
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+N/A
+```
+
+Change-Id: Ie8f9b087819c412c03c3ef4b493545f9d02c3de1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#900069c</div>
+                                        <div class="message">[web][DAS-8755] Fix schema tag search
+
+*What this PR does / why we need it:*
+- Makes the schema tag-dropdown searchable again
+
+*Special notes for your reviewer:*
+
+*Additional testing that was done:*
+ADDITIONAL_CI_TESTS:
+
+```
+Release note:
+N/A
+```
+
+Change-Id: Ie6e284700abd248e5f495d233d1292a5a3b8e162</div>
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2022, 22:40:58 (timezone America/Los_Angeles) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 23 Sept 2022, 23:21:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
