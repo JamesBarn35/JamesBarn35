@@ -1,7 +1,5 @@
 - name: Metrics embed
-  # You may pin to the exact commit or the version.
-  # uses: lowlighter/metrics@c09205ddbd2ffeffe0eacc12745f736eef60b69b
-  uses: lowlighter/metrics@v3.16
+  uses: lowlighter/metrics@v3.32
   with:
     # Metrics base content
     base: # optional, default is header, activity, community, repositories, metadata
